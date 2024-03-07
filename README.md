@@ -116,6 +116,11 @@
 [1911 Gold5 흙길 보수하기](Greedy/1911_g5_dirtroad.cpp)
 - 직관적으로 이해하지 못하면 예외처리 과정이 험난할 수 있습니다.
 
+### KMP
+[16916 Bronze2 부분 문자열](KMP/16916_b2_substr.cpp)
+- std::strstr로도 선형 시간에 풀 수 있지만 KMP를 사용해봅시다.
+- KMP는 매우 어려운 알고리즘입니다. 하지만 한 번 배워 놓으면 이를 응용한 플래티넘 등급의 문제들을 풀 수 있습니다.
+
 ### 정수론(Number Theory)
 [1629 Silver1 곱셈](NumberTheory/1629_s1_multiple.cpp)
 - 지수 법칙과 모듈러 성질을 이용합니다.
